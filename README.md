@@ -2,6 +2,9 @@
 
 Contains some sample codes and images for experimenting with image processing with MATLAB.
 
-__Guidelines.md__ contains some general assumptions and environmental conditions of the scenario in our consideration.
+## Contents
+* __Guidelines.md__
+Contains some general assumptions and environmental conditions of the scenario in our consideration.
 
-__Notes.md__ contains general notes and points related to code development.
+* __Notes.md__
+Contains general notes and points related to code development. All the reference links goes here.
